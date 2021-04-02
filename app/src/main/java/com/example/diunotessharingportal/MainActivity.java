@@ -23,9 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        adapter = new UserAdapter(this,list);
-        recyclerView.setAdapter(adapter);
-        adapter.notifyDataSetChanged();
+
     }
 
 
