@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735161208778",
+    "project_id": "diunotessharingportal-app",
+    "storage_bucket": "diunotessharingportal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735161208778:android:33a2bf09f11a1e5e650933",
+        "android_client_info": {
+          "package_name": "com.example.diunotessharingportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735161208778-2mq77bvgqosf90ghbb2sj11r4hshuq57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF130cnrFxNKrJ-jZZbSMtrPdY4pxEY4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735161208778-2mq77bvgqosf90ghbb2sj11r4hshuq57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
